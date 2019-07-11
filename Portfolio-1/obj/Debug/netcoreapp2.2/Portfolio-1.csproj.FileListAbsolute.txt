@@ -1,0 +1,14 @@
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/bin/Debug/netcoreapp2.2/Portfolio-1.deps.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/bin/Debug/netcoreapp2.2/Portfolio-1.runtimeconfig.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/bin/Debug/netcoreapp2.2/Portfolio-1.runtimeconfig.dev.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/bin/Debug/netcoreapp2.2/Portfolio-1.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/bin/Debug/netcoreapp2.2/Portfolio-1.pdb
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/obj/Debug/netcoreapp2.2/Portfolio-1.csprojAssemblyReference.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/obj/Debug/netcoreapp2.2/Portfolio-1.csproj.CoreCompileInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/obj/Debug/netcoreapp2.2/Portfolio-1.RazorAssemblyInfo.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/obj/Debug/netcoreapp2.2/Portfolio-1.RazorAssemblyInfo.cs
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/obj/Debug/netcoreapp2.2/Portfolio-1.AssemblyInfoInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/obj/Debug/netcoreapp2.2/Portfolio-1.AssemblyInfo.cs
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/obj/Debug/netcoreapp2.2/Portfolio-1.RazorTargetAssemblyInfo.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/obj/Debug/netcoreapp2.2/Portfolio-1.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/asp_mvc_1/Portfolio-1/obj/Debug/netcoreapp2.2/Portfolio-1.pdb
